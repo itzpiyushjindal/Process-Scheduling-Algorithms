@@ -1,0 +1,8 @@
+FCFS
+Process    | P3  | P1  | P5  | P2  | P4  |
+Arrival    |  0  |  3  |  4  |  5  |  5  |
+Service    |  2  |  4  |  3  |  3  |  1  |
+Finish     |  2  |  7  | 10  | 13  | 14  | Mean|
+Turnaround |  2  |  4  |  6  |  8  |  9  | 5.80|
+NormTurn   | 1.00| 1.00| 2.00| 2.67| 9.00| 3.13|
+Waiting    |  0  |  0  |  3  |  5  |  8  | 3.20|
